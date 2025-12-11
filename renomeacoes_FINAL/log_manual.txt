@@ -1,0 +1,229 @@
+Excel carregado com sucesso
+
+
+================================================================================
+Processando: 02_ABRAÇADEIRA
+================================================================================
+Arquivos encontrados: 113
+Exemplos de arquivos:
+  - 01-abraçadeira-ana-1 copiar.jpg
+  - 01-abraçadeira-ana-2 copiar.jpg
+  - 01-abraçadeira-ana-3 copiar.jpg
+  - 01-abraçadeira-bianca-1 copiar.jpg
+  - 01-abraçadeira-bianca-2 copiar.jpg
+Linhas encontradas no Excel: 45
+Primeiras linhas:
+  9208 - ABRAÇADEIRA ANA 01 OFF WHITE
+  9209 - ABRAÇADEIRA ANA 02 BEGE
+  9210 - ABRAÇADEIRA ANA 03 CINZA
+Cores disponíveis: [1, 2, 3, 4, 5]
+✓ CSV gerado: /home/ubuntu/Rename_imgs/renomeacoes_manual/renomeacao_02_abraçadeira.csv (1345 mapeamentos)
+
+================================================================================
+Processando: ARUBA
+================================================================================
+Arquivos encontrados: 30
+Exemplos de arquivos:
+  - tapete-bege-angulo-1 copiar.jpg
+  - tapete-bege-angulo-2 copiar.jpg
+  - tapete-bege-detalhe copiar.jpg
+  - tapete-bege-plano-1 copiar.jpg
+  - tapete-bege-plano-2 copiar.jpg
+Linhas encontradas no Excel: 2
+Primeiras linhas:
+  11053 - TAPETE ARUBA 40X60 SORTIDO
+  11055 - TAPETE ARUBA 50X80 SORTIDO
+Cores disponíveis: [40, 50]
+✗ ERRO: Nenhum mapeamento gerado
+
+================================================================================
+Processando: BAHAMAS
+================================================================================
+Arquivos encontrados: 85
+Exemplos de arquivos:
+  - Bahamas 1-1.jpg
+  - Bahamas 1-2.jpg
+  - Bahamas 1-3.jpg
+  - Bahamas 1-4.jpg
+  - Bahamas 1-5.jpg
+Linhas encontradas no Excel: 4
+Primeiras linhas:
+  9841 - TAPETE BAHAMAS 38X58 SORTIMENTO1
+  9842 - TAPETE BAHAMAS 38X58 SORTIMENTO2
+  9843 - TAPETE BAHAMAS 45X75 SORTIMENTO1
+Cores disponíveis: [38, 45]
+✗ ERRO: Nenhum mapeamento gerado
+
+================================================================================
+Processando: CAPACHOS
+================================================================================
+Arquivos encontrados: 210
+Exemplos de arquivos:
+  - ALAGOAS/tapete-capacho-borracha-33x60-alagoas-1-1.jpg
+  - ALAGOAS/tapete-capacho-borracha-33x60-alagoas-1-2.jpg
+  - ALAGOAS/tapete-capacho-borracha-33x60-alagoas-1-3.jpg
+  - ALAGOAS/tapete-capacho-borracha-33x60-alagoas-2-1-1.jpg
+  - ALAGOAS/tapete-capacho-borracha-33x60-alagoas-2-2-1.jpg
+ERRO: Nenhuma linha encontrada no Excel para 'CAPACHOS'
+
+================================================================================
+Processando: CLEAN
+================================================================================
+Arquivos encontrados: 60
+Exemplos de arquivos:
+  - 21-tapete-clean-2.jpg
+  - 21-tapete-clean-aproximado.jpg
+  - 21-tapete-clean-detalhe.jpg
+  - 21-tapete-clean.jpg
+  - 22-tapete-clean-2.jpg
+Linhas encontradas no Excel: 39
+Primeiras linhas:
+  6126 - TAPETE CLEAN DESENHO 02 40X120
+  6112 - TAPETE CLEAN DESENHO 03 40X60
+  6113 - TAPETE CLEAN DESENHO 04 40X60
+Cores disponíveis: [2, 3, 4, 5, 6, 11, 12, 13, 14, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
+✓ CSV gerado: /home/ubuntu/Rename_imgs/renomeacoes_manual/renomeacao_clean.csv (120 mapeamentos)
+
+================================================================================
+Processando: COLISEO
+================================================================================
+Arquivos encontrados: 49
+Exemplos de arquivos:
+  - COLISEO 01 (1).jpg
+  - COLISEO 01 (2).jpg
+  - COLISEO 01 (3).jpg
+  - COLISEO 01 (4).jpg
+  - COLISEO 01 (5).jpg
+Linhas encontradas no Excel: 30
+Primeiras linhas:
+  8161 - TAPETE COLISEO DESENHO 01 100X150
+  8162 - TAPETE COLISEO DESENHO 01 140X200
+  8163 - TAPETE COLISEO DESENHO 01 200X250
+Cores disponíveis: [1, 2, 3, 4, 5, 6]
+✓ CSV gerado: /home/ubuntu/Rename_imgs/renomeacoes_manual/renomeacao_coliseo.csv (245 mapeamentos)
+
+================================================================================
+Processando: DÉLHI
+================================================================================
+Arquivos encontrados: 37
+Exemplos de arquivos:
+  - COR 01_Natural White/20251117_121012.jpg
+  - COR 01_Natural White/20251117_121013.jpg
+  - COR 01_Natural White/20251117_121014.jpg
+  - COR 01_Natural White/20251117_121015.jpg
+  - COR 01_Natural White/20251117_121025.jpg
+ERRO: Nenhuma linha encontrada no Excel para 'DÉLHI'
+
+================================================================================
+Processando: EROS
+================================================================================
+Arquivos encontrados: 56
+Exemplos de arquivos:
+  - EROS 07 - 1.jpg
+  - EROS 07 - 3.jpg
+  - EROS 07 - 4.jpg
+  - EROS 07 - 5.jpg
+  - EROS 08 - 1.jpg
+Linhas encontradas no Excel: 26
+Primeiras linhas:
+  5760 - TAPETE EROS DESENHO 01 140X200 - B52747
+  7897 - TAPETE EROS DESENHO 01 140X200 - B52747(TRANS. SP)
+  5766 - TAPETE EROS DESENHO 01 200X250 - B52747
+Cores disponíveis: [1, 2, 5, 7, 8, 9]
+✓ CSV gerado: /home/ubuntu/Rename_imgs/renomeacoes_manual/renomeacao_eros.csv (151 mapeamentos)
+
+================================================================================
+Processando: ESPLENDOR
+================================================================================
+Arquivos encontrados: 84
+Exemplos de arquivos:
+  - ESPLENDOR-1-CREAM-CREAM-140X200 1.jpg
+  - ESPLENDOR-2-L.BEIGE-L.BEIGE-140X200 1.jpg
+  - ESPLENDOR-3-L.GREY-L.BEIGE-140X200 1.jpg
+  - ESPLENDOR-4-GREY-GREY-140X200 1.jpg
+  - ESPLENDOR-5-L.GREY-L.BEIGE-140X200 1.jpg
+Linhas encontradas no Excel: 3
+Primeiras linhas:
+  6709 - TAPETE ESPLENDOR DESENHO 04 200X250
+  6715 - TAPETE ESPLENDOR DESENHO 04 250X300
+  6722 - TAPETE ESPLENDOR DESENHO 05 300X400
+Cores disponíveis: [4, 5]
+✓ CSV gerado: /home/ubuntu/Rename_imgs/renomeacoes_manual/renomeacao_esplendor.csv (42 mapeamentos)
+
+================================================================================
+Processando: GÊNOVA
+================================================================================
+Arquivos encontrados: 30
+Exemplos de arquivos:
+  - GÊNOVA 01 - 1.jpg
+  - GÊNOVA 01 - 2.jpg
+  - GÊNOVA 01 - 3.jpg
+  - GÊNOVA 01 - 4.jpg
+  - GÊNOVA 01 - 5.jpg
+ERRO: Nenhuma linha encontrada no Excel para 'GÊNOVA'
+
+================================================================================
+Processando: RAFINATTO
+================================================================================
+Arquivos encontrados: 42
+Exemplos de arquivos:
+  - RAFINATTO - 01 (1).jpg
+  - RAFINATTO - 01 (10).jpg
+  - RAFINATTO - 01 (2).jpg
+  - RAFINATTO - 01 (3).jpg
+  - RAFINATTO - 01 (4).jpg
+Linhas encontradas no Excel: 30
+Primeiras linhas:
+  9044 - TAPETE RAFINATTO DESENHO 01 140X200
+  9068 - TAPETE RAFINATTO DESENHO 01 200 REDONDO
+  9048 - TAPETE RAFINATTO DESENHO 01 200X250
+Cores disponíveis: [1, 2, 3, 4]
+✓ CSV gerado: /home/ubuntu/Rename_imgs/renomeacoes_manual/renomeacao_rafinatto.csv (315 mapeamentos)
+
+================================================================================
+Processando: TAMISA
+================================================================================
+Arquivos encontrados: 24
+Exemplos de arquivos:
+  - tamisa-1-1.jpg
+  - tamisa-1-2.jpg
+  - tamisa-1-3.jpg
+  - tamisa-1-4.jpg
+  - tamisa-2-1.jpg
+ERRO: Nenhuma linha encontrada no Excel para 'TAMISA'
+
+================================================================================
+Processando: TOUCH
+================================================================================
+Arquivos encontrados: 61
+Exemplos de arquivos:
+  - TOUCH CORES.jpg
+  - Touch 40x60 cor 01 - Ambiente - Edantex.jpg
+  - Touch 40x60 cor 01 Edantex 1.jpg
+  - Touch 40x60 cor 01 Edantex 2.jpg
+  - Touch 40x60 cor 01 Edantex 3.jpg
+Linhas encontradas no Excel: 25
+Primeiras linhas:
+  7767 - TAPETE TOUCH  COR  01 40X60
+  7768 - TAPETE TOUCH  COR  02  40X60
+  7769 - TAPETE TOUCH  COR  03  40X60
+Cores disponíveis: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+✗ ERRO: Nenhum mapeamento gerado
+
+================================================================================
+Processando: VITALE
+================================================================================
+Arquivos encontrados: 30
+Exemplos de arquivos:
+  - VITALE - 11 (1) (2).jpg
+  - VITALE - 11 (2) (1).jpg
+  - VITALE - 11 (3) (1).jpg
+  - VITALE - 11 (4).jpg
+  - VITALE - 11 (5).jpg
+Linhas encontradas no Excel: 55
+Primeiras linhas:
+  9008 - TAPETE VITALE DESENHO 11 140X200 54200/UT6W
+  9026 - TAPETE VITALE DESENHO 11 200X250 54200/UT6W
+  9032 - TAPETE VITALE DESENHO 11 250X300 54200/UT6W
+Cores disponíveis: [11, 12, 13, 14, 15, 16, 17, 18, 19]
+✓ CSV gerado: /home/ubuntu/Rename_imgs/renomeacoes_manual/renomeacao_vitale.csv (180 mapeamentos)

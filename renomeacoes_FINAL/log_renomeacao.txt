@@ -1,0 +1,444 @@
+================================================================================
+INICIANDO PROCESSAMENTO AUTOMÁTICO
+================================================================================
+
+Excel carregado: 1386 linhas
+
+Produtos únicos encontrados no Excel: 61
+Produtos: ACONCHEGO, ALICE DESENHO, AMBIENCE, ANA, ANDES, ARTESANO, ARUBA, AURORA, AUSTRALIAN, BAHAMAS, BIANCA, BRUXELAS, CAPACHO DE BORRACHA, CAPACHO DE COCO, CARIBE, CARINO, CARRARA, CHARM, CLEAN DESENHO, COLISEO DESENHO, CORDA LISA, DELHI, ELEGANCE, ELEGANT PRINT, ENC., ERIKA, EROS DESENHO, ESPLENDOR DESENHO, GENOVA, GLAMOUR, HARMONIA, HAWAII, HIMALAIA, JACK, JESSICA, JULIA, KINGDOM, LINEN, MALDIVAS, MARIA, MARIANNA, MICHELLE, MILANO, MONIKE, MOON, NATACHA, NICOLLY, NOMAD, PARIS, PLUMA, RAFINATTO DESENHO, SOFIA, SOFISTICATO, SOLAR DESENHO, SUELLEN, TOUCH, TÂMISA, VENEZA, VITALE DESENHO, WAVES, ZELAND
+
+================================================================================
+PROCESSANDO PASTAS DE IMAGENS
+================================================================================
+
+Pastas encontradas: 42
+
+--- Processando: 02_ABRAÇADEIRA ---
+  Arquivos encontrados: 113
+  ERRO: Produto '02_ABRAÇADEIRA' não encontrado no Excel
+
+--- Processando: ACONCHEGO ---
+  Arquivos encontrados: 49
+  Produto mapeado: ACONCHEGO
+  Cores disponíveis no Excel: [1, 2, 3, 4, 5, 6, 7]
+  CSV gerado: /home/ubuntu/Rename_imgs/renomeacoes/renomeacao_aconchego.csv (343 mapeamentos)
+
+--- Processando: AMBIENCE_ ---
+  Arquivos encontrados: 33
+  Produto mapeado: AMBIENCE
+  Cores disponíveis no Excel: [1, 2, 3, 4, 5, 6]
+  CSV gerado: /home/ubuntu/Rename_imgs/renomeacoes/renomeacao_ambience_.csv (170 mapeamentos)
+
+--- Processando: ANDES ---
+  Arquivos encontrados: 25
+  Produto mapeado: ANDES
+  Cores disponíveis no Excel: [1, 2, 3, 4, 5, 6]
+  CSV gerado: /home/ubuntu/Rename_imgs/renomeacoes/renomeacao_andes.csv (150 mapeamentos)
+
+--- Processando: ARTESANO ---
+  Arquivos encontrados: 29
+  Produto mapeado: ARTESANO
+  Cores disponíveis no Excel: [1, 2, 3, 4, 5, 6]
+  CSV gerado: /home/ubuntu/Rename_imgs/renomeacoes/renomeacao_artesano.csv (217 mapeamentos)
+
+--- Processando: ARUBA ---
+  Arquivos encontrados: 30
+  Produto mapeado: ARUBA
+  Cores disponíveis no Excel: [40, 50]
+  AVISO: Cor 1 não encontrada no Excel para arquivo: tapete-bege-angulo-1 copiar.jpg
+  AVISO: Cor 2 não encontrada no Excel para arquivo: tapete-bege-angulo-2 copiar.jpg
+  AVISO: Cor None não encontrada no Excel para arquivo: tapete-bege-detalhe copiar.jpg
+  AVISO: Cor 1 não encontrada no Excel para arquivo: tapete-bege-plano-1 copiar.jpg
+  AVISO: Cor 2 não encontrada no Excel para arquivo: tapete-bege-plano-2 copiar.jpg
+  AVISO: Cor None não encontrada no Excel para arquivo: tapete-bege-rolinho copiar.jpg
+  AVISO: Cor None não encontrada no Excel para arquivo: tapete-bege-verso copiar.jpg
+  AVISO: Cor 1 não encontrada no Excel para arquivo: tapete-caramelo-angulo-1 copiar.jpg
+  AVISO: Cor 2 não encontrada no Excel para arquivo: tapete-caramelo-angulo-2 copiar.jpg
+  AVISO: Cor None não encontrada no Excel para arquivo: tapete-caramelo-detalhe copiar.jpg
+  AVISO: Cor 1 não encontrada no Excel para arquivo: tapete-caramelo-plano-1 copiar.jpg
+  AVISO: Cor 2 não encontrada no Excel para arquivo: tapete-caramelo-plano-2 copiar.jpg
+  AVISO: Cor None não encontrada no Excel para arquivo: tapete-caramelo-rolinho copiar.jpg
+  AVISO: Cor None não encontrada no Excel para arquivo: tapete-caramelo-verso copiar.jpg
+  AVISO: Cor 1 não encontrada no Excel para arquivo: tapete-cinza-angulo-1 copiar.jpg
+  AVISO: Cor 2 não encontrada no Excel para arquivo: tapete-cinza-angulo-2 copiar.jpg
+  AVISO: Cor None não encontrada no Excel para arquivo: tapete-cinza-detalhe copiar.jpg
+  AVISO: Cor 1 não encontrada no Excel para arquivo: tapete-cinza-plano-1 copiar.jpg
+  AVISO: Cor 2 não encontrada no Excel para arquivo: tapete-cinza-plano-2 copiar.jpg
+  AVISO: Cor None não encontrada no Excel para arquivo: tapete-cinza-rolinho copiar.jpg
+  AVISO: Cor None não encontrada no Excel para arquivo: tapete-cinza-verso copiar.jpg
+  AVISO: Cor 1 não encontrada no Excel para arquivo: tapete-rosa-angulo-1 copiar.jpg
+  AVISO: Cor 2 não encontrada no Excel para arquivo: tapete-rosa-angulo-2 copiar.jpg
+  AVISO: Cor None não encontrada no Excel para arquivo: tapete-rosa-detalhe copiar.jpg
+  AVISO: Cor 1 não encontrada no Excel para arquivo: tapete-rosa-plano-1 copiar.jpg
+  AVISO: Cor 2 não encontrada no Excel para arquivo: tapete-rosa-plano-2 copiar.jpg
+  AVISO: Cor None não encontrada no Excel para arquivo: tapete-rosa-rolinho copiar.jpg
+  AVISO: Cor None não encontrada no Excel para arquivo: tapete-rosa-verso copiar.jpg
+  AVISO: Cor 1 não encontrada no Excel para arquivo: tapete-verde-angulo-1 copiar.jpg
+  AVISO: Cor None não encontrada no Excel para arquivo: tapetes copiar.jpg
+  ERRO: Nenhum mapeamento gerado para ARUBA
+
+--- Processando: AURORA ---
+  Arquivos encontrados: 93
+  Produto mapeado: AURORA
+  Cores disponíveis no Excel: [1, 2, 3, 4, 5, 6]
+  CSV gerado: /home/ubuntu/Rename_imgs/renomeacoes/renomeacao_aurora.csv (663 mapeamentos)
+
+--- Processando: AUSTRALIAN ---
+  Arquivos encontrados: 16
+  Produto mapeado: AUSTRALIAN
+  Cores disponíveis no Excel: [1, 2, 3, 4]
+  CSV gerado: /home/ubuntu/Rename_imgs/renomeacoes/renomeacao_australian.csv (88 mapeamentos)
+
+--- Processando: BAHAMAS ---
+  Arquivos encontrados: 85
+  Produto mapeado: BAHAMAS
+  Cores disponíveis no Excel: [38, 45]
+  AVISO: Cor 1 não encontrada no Excel para arquivo: Bahamas 1-1.jpg
+  AVISO: Cor 1 não encontrada no Excel para arquivo: Bahamas 1-2.jpg
+  AVISO: Cor 1 não encontrada no Excel para arquivo: Bahamas 1-3.jpg
+  AVISO: Cor 1 não encontrada no Excel para arquivo: Bahamas 1-4.jpg
+  AVISO: Cor 1 não encontrada no Excel para arquivo: Bahamas 1-5.jpg
+  AVISO: Cor 1 não encontrada no Excel para arquivo: Bahamas 1-6.jpg
+  AVISO: Cor 1 não encontrada no Excel para arquivo: Bahamas 1-7.jpg
+  AVISO: Cor 10 não encontrada no Excel para arquivo: Bahamas 10-1.jpg
+  AVISO: Cor 10 não encontrada no Excel para arquivo: Bahamas 10-2.jpg
+  AVISO: Cor 10 não encontrada no Excel para arquivo: Bahamas 10-3.jpg
+  AVISO: Cor 10 não encontrada no Excel para arquivo: Bahamas 10-4.jpg
+  AVISO: Cor 10 não encontrada no Excel para arquivo: Bahamas 10-5.jpg
+  AVISO: Cor 10 não encontrada no Excel para arquivo: Bahamas 10-6.jpg
+  AVISO: Cor 10 não encontrada no Excel para arquivo: Bahamas 10-7.jpg
+  AVISO: Cor 11 não encontrada no Excel para arquivo: Bahamas 11-1.jpg
+  AVISO: Cor 11 não encontrada no Excel para arquivo: Bahamas 11-2.jpg
+  AVISO: Cor 11 não encontrada no Excel para arquivo: Bahamas 11-3.jpg
+  AVISO: Cor 11 não encontrada no Excel para arquivo: Bahamas 11-4.jpg
+  AVISO: Cor 11 não encontrada no Excel para arquivo: Bahamas 11-5.jpg
+  AVISO: Cor 11 não encontrada no Excel para arquivo: Bahamas 11-6.jpg
+  AVISO: Cor 11 não encontrada no Excel para arquivo: Bahamas 11-7.jpg
+  AVISO: Cor 12 não encontrada no Excel para arquivo: Bahamas 12-1.jpg
+  AVISO: Cor 12 não encontrada no Excel para arquivo: Bahamas 12-2.jpg
+  AVISO: Cor 12 não encontrada no Excel para arquivo: Bahamas 12-3.jpg
+  AVISO: Cor 12 não encontrada no Excel para arquivo: Bahamas 12-3_.jpg
+  AVISO: Cor 12 não encontrada no Excel para arquivo: Bahamas 12-4.jpg
+  AVISO: Cor 12 não encontrada no Excel para arquivo: Bahamas 12-5.jpg
+  AVISO: Cor 12 não encontrada no Excel para arquivo: Bahamas 12-6.jpg
+  AVISO: Cor 12 não encontrada no Excel para arquivo: Bahamas 12-7.jpg
+  AVISO: Cor 2 não encontrada no Excel para arquivo: Bahamas 2-1.jpg
+  AVISO: Cor 2 não encontrada no Excel para arquivo: Bahamas 2-2.jpg
+  AVISO: Cor 2 não encontrada no Excel para arquivo: Bahamas 2-3.jpg
+  AVISO: Cor 2 não encontrada no Excel para arquivo: Bahamas 2-4.jpg
+  AVISO: Cor 2 não encontrada no Excel para arquivo: Bahamas 2-5.jpg
+  AVISO: Cor 2 não encontrada no Excel para arquivo: Bahamas 2-6.jpg
+  AVISO: Cor 2 não encontrada no Excel para arquivo: Bahamas 2-7.jpg
+  AVISO: Cor 3 não encontrada no Excel para arquivo: Bahamas 3-1.jpg
+  AVISO: Cor 3 não encontrada no Excel para arquivo: Bahamas 3-2.jpg
+  AVISO: Cor 3 não encontrada no Excel para arquivo: Bahamas 3-3.jpg
+  AVISO: Cor 3 não encontrada no Excel para arquivo: Bahamas 3-4.jpg
+  AVISO: Cor 3 não encontrada no Excel para arquivo: Bahamas 3-5.jpg
+  AVISO: Cor 3 não encontrada no Excel para arquivo: Bahamas 3-6.jpg
+  AVISO: Cor 3 não encontrada no Excel para arquivo: Bahamas 3-7.jpg
+  AVISO: Cor 4 não encontrada no Excel para arquivo: Bahamas 4-1.jpg
+  AVISO: Cor 4 não encontrada no Excel para arquivo: Bahamas 4-2.jpg
+  AVISO: Cor 4 não encontrada no Excel para arquivo: Bahamas 4-3.jpg
+  AVISO: Cor 4 não encontrada no Excel para arquivo: Bahamas 4-4.jpg
+  AVISO: Cor 4 não encontrada no Excel para arquivo: Bahamas 4-5.jpg
+  AVISO: Cor 4 não encontrada no Excel para arquivo: Bahamas 4-6.jpg
+  AVISO: Cor 4 não encontrada no Excel para arquivo: Bahamas 4-7.jpg
+  AVISO: Cor 5 não encontrada no Excel para arquivo: Bahamas 5-1.jpg
+  AVISO: Cor 5 não encontrada no Excel para arquivo: Bahamas 5-2.jpg
+  AVISO: Cor 5 não encontrada no Excel para arquivo: Bahamas 5-3.jpg
+  AVISO: Cor 5 não encontrada no Excel para arquivo: Bahamas 5-4.jpg
+  AVISO: Cor 5 não encontrada no Excel para arquivo: Bahamas 5-5.jpg
+  AVISO: Cor 5 não encontrada no Excel para arquivo: Bahamas 5-6.jpg
+  AVISO: Cor 5 não encontrada no Excel para arquivo: Bahamas 5-7.jpg
+  AVISO: Cor 6 não encontrada no Excel para arquivo: Bahamas 6-1.jpg
+  AVISO: Cor 6 não encontrada no Excel para arquivo: Bahamas 6-2.jpg
+  AVISO: Cor 6 não encontrada no Excel para arquivo: Bahamas 6-3.jpg
+  AVISO: Cor 6 não encontrada no Excel para arquivo: Bahamas 6-4.jpg
+  AVISO: Cor 6 não encontrada no Excel para arquivo: Bahamas 6-5.jpg
+  AVISO: Cor 6 não encontrada no Excel para arquivo: Bahamas 6-6.jpg
+  AVISO: Cor 6 não encontrada no Excel para arquivo: Bahamas 6-7.jpg
+  AVISO: Cor 7 não encontrada no Excel para arquivo: Bahamas 7-1.jpg
+  AVISO: Cor 7 não encontrada no Excel para arquivo: Bahamas 7-2.jpg
+  AVISO: Cor 7 não encontrada no Excel para arquivo: Bahamas 7-3.jpg
+  AVISO: Cor 7 não encontrada no Excel para arquivo: Bahamas 7-4.jpg
+  AVISO: Cor 7 não encontrada no Excel para arquivo: Bahamas 7-5.jpg
+  AVISO: Cor 7 não encontrada no Excel para arquivo: Bahamas 7-6.jpg
+  AVISO: Cor 7 não encontrada no Excel para arquivo: Bahamas 7-7.jpg
+  AVISO: Cor 8 não encontrada no Excel para arquivo: Bahamas 8-1.jpg
+  AVISO: Cor 8 não encontrada no Excel para arquivo: Bahamas 8-2.jpg
+  AVISO: Cor 8 não encontrada no Excel para arquivo: Bahamas 8-3.jpg
+  AVISO: Cor 8 não encontrada no Excel para arquivo: Bahamas 8-4.jpg
+  AVISO: Cor 8 não encontrada no Excel para arquivo: Bahamas 8-5.jpg
+  AVISO: Cor 8 não encontrada no Excel para arquivo: Bahamas 8-6.jpg
+  AVISO: Cor 8 não encontrada no Excel para arquivo: Bahamas 8-7.jpg
+  AVISO: Cor 9 não encontrada no Excel para arquivo: Bahamas 9-1.jpg
+  AVISO: Cor 9 não encontrada no Excel para arquivo: Bahamas 9-2.jpg
+  AVISO: Cor 9 não encontrada no Excel para arquivo: Bahamas 9-3.jpg
+  AVISO: Cor 9 não encontrada no Excel para arquivo: Bahamas 9-4.jpg
+  AVISO: Cor 9 não encontrada no Excel para arquivo: Bahamas 9-5.jpg
+  AVISO: Cor 9 não encontrada no Excel para arquivo: Bahamas 9-6.jpg
+  AVISO: Cor 9 não encontrada no Excel para arquivo: Bahamas 9-7.jpg
+  ERRO: Nenhum mapeamento gerado para BAHAMAS
+
+--- Processando: BRUXELAS ---
+  Arquivos encontrados: 61
+  Produto mapeado: BRUXELAS
+  Cores disponíveis no Excel: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+  CSV gerado: /home/ubuntu/Rename_imgs/renomeacoes/renomeacao_bruxelas.csv (488 mapeamentos)
+
+--- Processando: CAPACHOS ---
+  Arquivos encontrados: 210
+  ERRO: Produto 'CAPACHOS' não encontrado no Excel
+
+--- Processando: CARIBE ---
+  Arquivos encontrados: 15
+  Produto mapeado: CARIBE
+  Cores disponíveis no Excel: [1, 2, 3]
+  CSV gerado: /home/ubuntu/Rename_imgs/renomeacoes/renomeacao_caribe.csv (30 mapeamentos)
+
+--- Processando: CARINO ---
+  Arquivos encontrados: 24
+  Produto mapeado: CARINO
+  Cores disponíveis no Excel: [1, 2, 3, 4, 5, 6]
+  CSV gerado: /home/ubuntu/Rename_imgs/renomeacoes/renomeacao_carino.csv (192 mapeamentos)
+
+--- Processando: CARRARA ---
+  Arquivos encontrados: 36
+  Produto mapeado: CARRARA
+  Cores disponíveis no Excel: [1, 2, 3, 4, 5, 6]
+  CSV gerado: /home/ubuntu/Rename_imgs/renomeacoes/renomeacao_carrara.csv (186 mapeamentos)
+
+--- Processando: CHARM ---
+  Arquivos encontrados: 19
+  Produto mapeado: CHARM
+  Cores disponíveis no Excel: [1, 2, 3, 4, 5, 6, 7]
+  CSV gerado: /home/ubuntu/Rename_imgs/renomeacoes/renomeacao_charm.csv (133 mapeamentos)
+
+--- Processando: CLEAN ---
+  Arquivos encontrados: 60
+  ERRO: Produto 'CLEAN' não encontrado no Excel
+
+--- Processando: COLISEO ---
+  Arquivos encontrados: 49
+  ERRO: Produto 'COLISEO' não encontrado no Excel
+
+--- Processando: DÉLHI ---
+  Arquivos encontrados: 37
+  ERRO: Produto 'DÉLHI' não encontrado no Excel
+
+--- Processando: ELEGANCE ---
+  Arquivos encontrados: 20
+  Produto mapeado: ELEGANCE
+  Cores disponíveis no Excel: [1, 2, 3, 4, 5, 6]
+  CSV gerado: /home/ubuntu/Rename_imgs/renomeacoes/renomeacao_elegance.csv (160 mapeamentos)
+
+--- Processando: EROS ---
+  Arquivos encontrados: 56
+  ERRO: Produto 'EROS' não encontrado no Excel
+
+--- Processando: ESPLENDOR ---
+  Arquivos encontrados: 84
+  ERRO: Produto 'ESPLENDOR' não encontrado no Excel
+
+--- Processando: GLAMOUR ---
+  Arquivos encontrados: 90
+  Produto mapeado: GLAMOUR
+  Cores disponíveis no Excel: [1, 2, 3, 4, 5, 6]
+  CSV gerado: /home/ubuntu/Rename_imgs/renomeacoes/renomeacao_glamour.csv (570 mapeamentos)
+
+--- Processando: GÊNOVA ---
+  Arquivos encontrados: 30
+  ERRO: Produto 'GÊNOVA' não encontrado no Excel
+
+--- Processando: HARMONIA ---
+  Arquivos encontrados: 24
+  Produto mapeado: HARMONIA
+  Cores disponíveis no Excel: [1, 2, 3, 4]
+  CSV gerado: /home/ubuntu/Rename_imgs/renomeacoes/renomeacao_harmonia.csv (120 mapeamentos)
+
+--- Processando: HAWAII ---
+  Arquivos encontrados: 20
+  Produto mapeado: HAWAII
+  Cores disponíveis no Excel: [1, 2, 3, 4]
+  CSV gerado: /home/ubuntu/Rename_imgs/renomeacoes/renomeacao_hawaii.csv (40 mapeamentos)
+
+--- Processando: HIMALAIA ---
+  Arquivos encontrados: 24
+  Produto mapeado: HIMALAIA
+  Cores disponíveis no Excel: [1, 2, 3, 4]
+  CSV gerado: /home/ubuntu/Rename_imgs/renomeacoes/renomeacao_himalaia.csv (168 mapeamentos)
+
+--- Processando: KINGDOM ---
+  Arquivos encontrados: 36
+  Produto mapeado: KINGDOM
+  Cores disponíveis no Excel: [1, 2, 3, 4, 5, 6]
+  CSV gerado: /home/ubuntu/Rename_imgs/renomeacoes/renomeacao_kingdom.csv (180 mapeamentos)
+
+--- Processando: LINEN ---
+  Arquivos encontrados: 24
+  Produto mapeado: LINEN
+  Cores disponíveis no Excel: [1, 2, 3, 4, 5, 6]
+  CSV gerado: /home/ubuntu/Rename_imgs/renomeacoes/renomeacao_linen.csv (144 mapeamentos)
+
+--- Processando: MALDIVAS ---
+  Arquivos encontrados: 20
+  Produto mapeado: MALDIVAS
+  Cores disponíveis no Excel: [1, 2, 3, 4]
+  CSV gerado: /home/ubuntu/Rename_imgs/renomeacoes/renomeacao_maldivas.csv (40 mapeamentos)
+
+--- Processando: MILANO ---
+  Arquivos encontrados: 26
+  Produto mapeado: MILANO
+  Cores disponíveis no Excel: [1, 2, 3, 4, 5, 6]
+  CSV gerado: /home/ubuntu/Rename_imgs/renomeacoes/renomeacao_milano.csv (141 mapeamentos)
+
+--- Processando: MOON ---
+  Arquivos encontrados: 40
+  Produto mapeado: MOON
+  Cores disponíveis no Excel: [1, 2, 3, 4]
+  AVISO: Cor 8 não encontrada no Excel para arquivo: 08.1.jpg
+  AVISO: Cor 8 não encontrada no Excel para arquivo: 08.2.jpg
+  AVISO: Cor 8 não encontrada no Excel para arquivo: 08.3.jpg
+  AVISO: Cor 10 não encontrada no Excel para arquivo: 10.1.jpg
+  AVISO: Cor 10 não encontrada no Excel para arquivo: 10.2.jpg
+  AVISO: Cor 10 não encontrada no Excel para arquivo: 10.jpg
+  AVISO: Cor 12 não encontrada no Excel para arquivo: 12.1.jpg
+  AVISO: Cor 12 não encontrada no Excel para arquivo: 12.2.jpg
+  AVISO: Cor 12 não encontrada no Excel para arquivo: 12.jpg
+  AVISO: Cor 18 não encontrada no Excel para arquivo: 18.01.jpg
+  AVISO: Cor 18 não encontrada no Excel para arquivo: 18.02.jpg
+  AVISO: Cor 18 não encontrada no Excel para arquivo: 18.jpg
+  AVISO: Cor 8 não encontrada no Excel para arquivo: 8.jpg
+  AVISO: Cor 348 não encontrada no Excel para arquivo: IMG_348.jpg
+  AVISO: Cor 8283 não encontrada no Excel para arquivo: IMG_8283.jpg
+  AVISO: Cor 8285 não encontrada no Excel para arquivo: IMG_8285.jpg
+  AVISO: Cor 8291 não encontrada no Excel para arquivo: IMG_8291.jpg
+  AVISO: Cor 8297 não encontrada no Excel para arquivo: IMG_8297.jpg
+  AVISO: Cor 8301 não encontrada no Excel para arquivo: IMG_8301.jpg
+  AVISO: Cor 8303 não encontrada no Excel para arquivo: IMG_8303.jpg
+  CSV gerado: /home/ubuntu/Rename_imgs/renomeacoes/renomeacao_moon.csv (100 mapeamentos)
+
+--- Processando: NOMAD ---
+  Arquivos encontrados: 36
+  Produto mapeado: NOMAD
+  Cores disponíveis no Excel: [1, 2, 3, 4, 5, 6]
+  CSV gerado: /home/ubuntu/Rename_imgs/renomeacoes/renomeacao_nomad.csv (186 mapeamentos)
+
+--- Processando: PLUMA ---
+  Arquivos encontrados: 27
+  Produto mapeado: PLUMA
+  Cores disponíveis no Excel: [1, 2, 3, 4]
+  CSV gerado: /home/ubuntu/Rename_imgs/renomeacoes/renomeacao_pluma.csv (162 mapeamentos)
+
+--- Processando: RAFINATTO ---
+  Arquivos encontrados: 42
+  ERRO: Produto 'RAFINATTO' não encontrado no Excel
+
+--- Processando: SOFIA ---
+  Arquivos encontrados: 49
+  Produto mapeado: SOFIA
+  Cores disponíveis no Excel: [1, 2, 3, 4, 5, 6, 7]
+  CSV gerado: /home/ubuntu/Rename_imgs/renomeacoes/renomeacao_sofia.csv (329 mapeamentos)
+
+--- Processando: SOFISTICATO ---
+  Arquivos encontrados: 36
+  Produto mapeado: SOFISTICATO
+  Cores disponíveis no Excel: [1, 2, 3, 4, 5, 6]
+  CSV gerado: /home/ubuntu/Rename_imgs/renomeacoes/renomeacao_sofisticato.csv (186 mapeamentos)
+
+--- Processando: TAMISA ---
+  Arquivos encontrados: 24
+  ERRO: Produto 'TAMISA' não encontrado no Excel
+
+--- Processando: TOUCH ---
+  Arquivos encontrados: 61
+  Produto mapeado: TOUCH
+  Cores disponíveis no Excel: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+  AVISO: Cor None não encontrada no Excel para arquivo: TOUCH CORES.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 01 - Ambiente - Edantex.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 01 Edantex 1.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 01 Edantex 2.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 01 Edantex 3.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 01 Edantex.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 02 - Ambiente - Edantex.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 02 Edantex 1.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 02 Edantex 2.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 02 Edantex 3.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 02 Edantex.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 03 - Ambiente - Edantex.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 03 Edantex 1.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 03 Edantex 2.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 03 Edantex 3.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 03 Edantex.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 04 - Ambiente - Edantex.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 04 Edantex 1.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 04 Edantex 2.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 04 Edantex 3.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 04 Edantex.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 05 - Ambiente - Edantex.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 05 Edantex 1.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 05 Edantex 2.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 05 Edantex 3.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 05 Edantex.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 06 - Ambiente -Edantex.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 06 Edantex 1.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 06 Edantex 2.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 06 Edantex 3.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 06 Edantex.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 07 - Ambiente - Edantex.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 07 Edantex 1.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 07 Edantex 2.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 07 Edantex 3.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 07 Edantex.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 08 - Ambiente - Edantex.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 08 Edantex 1.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 08 Edantex 2.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 08 Edantex 3.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 08 Edantex.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 09 - Ambiente - Edantex.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 09 Edantex 1.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 09 Edantex 2.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 09 Edantex 3.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 09 Edantex.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 10 - Ambiente - Edantex.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 10 Edantex 1.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 10 Edantex 2.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 10 Edantex 3.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 10 Edantex.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 11 - Ambiente Edantex.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 11 Edantex 1.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 11 Edantex 2.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 11 Edantex 3.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 11 Edantex.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 12 - Ambiente -Edantex.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 12 Edantex 1.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 12 Edantex 2.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 12 Edantex 3.jpg
+  AVISO: Cor 40 não encontrada no Excel para arquivo: Touch 40x60 cor 12 Edantex.jpg
+  ERRO: Nenhum mapeamento gerado para TOUCH
+
+--- Processando: VENEZA ---
+  Arquivos encontrados: 42
+  Produto mapeado: VENEZA
+  Cores disponíveis no Excel: [1, 2, 3, 4, 5, 6]
+  CSV gerado: /home/ubuntu/Rename_imgs/renomeacoes/renomeacao_veneza.csv (259 mapeamentos)
+
+--- Processando: VITALE ---
+  Arquivos encontrados: 30
+  ERRO: Produto 'VITALE' não encontrado no Excel
+
+--- Processando: WAVES ---
+  Arquivos encontrados: 48
+  Produto mapeado: WAVES
+  Cores disponíveis no Excel: [1, 2, 3, 4, 5, 6]
+  CSV gerado: /home/ubuntu/Rename_imgs/renomeacoes/renomeacao_waves.csv (144 mapeamentos)
+
+--- Processando: ZELAND ---
+  Arquivos encontrados: 16
+  Produto mapeado: ZELAND
+  Cores disponíveis no Excel: [1, 2, 3, 4]
+  CSV gerado: /home/ubuntu/Rename_imgs/renomeacoes/renomeacao_zeland.csv (136 mapeamentos)
+
+================================================================================
+PROCESSAMENTO CONCLUÍDO
+================================================================================

@@ -1,0 +1,62 @@
+================================================================================
+PROCESSAMENTO DOS PRODUTOS RESTANTES
+================================================================================
+
+--- BAHAMAS ---
+Arquivos encontrados: 85
+Linhas no Excel: 4
+Combinações encontradas: 4
+✗ Nenhum mapeamento gerado
+
+--- CAPACHOS ---
+Subpastas encontradas: ['ALAGOAS', 'BAHIA', 'CAPACHO ECCO', 'CAPACHO ESTAMPADO', 'CAPACHO IRON', 'CAPACHO PRIME', 'CAPACHO RUBY', 'ECCO', 'ESTAMPADOS', 'FELIX', 'IRON', 'POST FEED', 'PRIME', 'RUBY', 'SERGIPE']
+  ALAGOAS: 15 arquivos
+  BAHIA: 9 arquivos
+  CAPACHO ECCO: 12 arquivos
+    AVISO: CAPACHO ECCO não encontrado no Excel
+  CAPACHO ESTAMPADO: 30 arquivos
+    AVISO: CAPACHO ESTAMPADO não encontrado no Excel
+  CAPACHO IRON: 9 arquivos
+    AVISO: CAPACHO IRON não encontrado no Excel
+  CAPACHO PRIME: 9 arquivos
+    AVISO: CAPACHO PRIME não encontrado no Excel
+  CAPACHO RUBY: 21 arquivos
+    AVISO: CAPACHO RUBY não encontrado no Excel
+  ECCO: 12 arquivos
+  ESTAMPADOS: 30 arquivos
+    AVISO: ESTAMPADOS não encontrado no Excel
+  FELIX: 12 arquivos
+  IRON: 9 arquivos
+  POST FEED: 6 arquivos
+    AVISO: POST FEED não encontrado no Excel
+  PRIME: 12 arquivos
+  RUBY: 12 arquivos
+  SERGIPE: 12 arquivos
+✓ CSV gerado: 321 mapeamentos
+
+--- DÉLHI ---
+Linhas no Excel: 42
+Cores disponíveis: [1, 2, 3, 4, 5, 6]
+✓ CSV gerado: 259 mapeamentos
+
+--- GÊNOVA ---
+Arquivos encontrados: 30
+Linhas no Excel: 26
+Cores disponíveis: [1, 2, 3, 4, 5]
+✓ CSV gerado: 156 mapeamentos
+
+--- TAMISA ---
+Arquivos encontrados: 24
+Linhas no Excel: 42
+Cores disponíveis: [1, 2, 3, 4, 5, 6]
+✓ CSV gerado: 168 mapeamentos
+
+--- TOUCH ---
+Arquivos encontrados: 61
+Linhas no Excel: 25
+Cores disponíveis: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+✓ CSV gerado: 120 mapeamentos
+
+================================================================================
+PROCESSAMENTO CONCLUÍDO
+================================================================================
